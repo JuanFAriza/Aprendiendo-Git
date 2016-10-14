@@ -7,4 +7,4 @@ print 'Nueva modificacion'
 
 print 'Numero aleatorio' + format(np.random.random())
 
-print "Comandos Git\n git checkout \n git status \n git add \n git commit -m mensaje \n git push \n git log"
+print "Comandos Git\n git checkout \n git status \n git add \n git commit -m mensaje \n git push \n git log \n git clone http..."
